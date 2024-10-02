@@ -16,4 +16,6 @@ git status // branch check
 
 git merge (branchName)
 
-s
+git branch -d (branchName) // merge completed brnach delete
+git branch -D (branchName) // not merge branch delete
+
