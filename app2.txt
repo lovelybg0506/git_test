@@ -6,6 +6,7 @@ git add app2.txt
 git commit  -m 'commit message'
 
 s
+<<<<<<< HEAD
 
 git add .                 // add (staging)
 git commit -m 'commitMsg' // commit
@@ -15,3 +16,7 @@ git switch (branchName) // branch open
 git status // branch check
 
 git merge (branchName)
+=======
+sadf
+e
+>>>>>>> coupon
