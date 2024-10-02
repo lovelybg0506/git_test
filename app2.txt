@@ -4,3 +4,5 @@ git add app2.txt
 git commit  -m 'commit message'
 
 s
+sadf
+e
