@@ -4,3 +4,9 @@ git add app2.txt
 git commit  -m 'commit message'
 
 s
+
+git add .
+git commit -m 'commitMsg'
+
+git switch (branchName)
+git status
