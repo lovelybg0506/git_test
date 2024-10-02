@@ -5,8 +5,9 @@ git commit  -m 'commit message'
 
 s
 
-git add .
-git commit -m 'commitMsg'
+git add .                 // add (staging)
+git commit -m 'commitMsg' // commit
 
-git switch (branchName)
-git status
+git branch (branchName) // branch create
+git switch (branchName) // branch open
+git status // branch check
