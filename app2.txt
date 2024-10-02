@@ -1,5 +1,7 @@
 hello git.
 
+git branch -M main // Master branch Name Change to main
+
 git add app2.txt
 git commit  -m 'commit message'
 
@@ -11,3 +13,5 @@ git commit -m 'commitMsg' // commit
 git branch (branchName) // branch create
 git switch (branchName) // branch open
 git status // branch check
+
+git merge (branchName)
